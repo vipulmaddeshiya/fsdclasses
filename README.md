@@ -1,0 +1,2 @@
+# fsdclasses
+the learning solution
